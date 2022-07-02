@@ -15,6 +15,7 @@
 ## Overview
 
 > Machine learning algorithms typically prioritize making the most accurate predictions or classifications over providing insights into feature cause-and-effect relationships. However, understanding the cause and effect relationship can be useful in decision-making, particularly in the health sector. It would also aid in the development of more accurate models that exploit not only the data but also the data's cause and effect structure. Causal inference is the process of determining what causes what. Casual inference allows us to answer questions like what causes what and what the effect would be if we improved some features.
+![Stage of Breast Cancer](https://user-images.githubusercontent.com/99503155/177015553-3d07d2da-7926-48d6-981a-d5d8bc26060c.jpg)
 
 > The purpose of this project is to extract useful features by using causal inferences and building the model to predict the diagnosis.
 
